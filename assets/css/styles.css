@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(240, 195, 112);
+}
+h1{
+    color: rgb(228, 153, 14);
+    text-align: center;
+}
+.padre{
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap;
+}
+.tarjeta{
+    background-color: rgb(201, 127, 30);
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+    color: rgb(75, 45, 45);
+    border-radius: 15px;
+}
+.tarjeta img{
+    width: 400px;
+    height: 300px;
+}
+.desp{
+    color: rgb(75, 45, 45);
+}
+.equipo{
+    font-size: 27px;
+    color: rgb(224, 192, 153);
+}
